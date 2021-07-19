@@ -8,7 +8,7 @@ function App() {
         <button>
           <p>Dang nhap bang Google</p>
         </button>
-        <button onClick={}>
+        <button>
           <p>Dang nhap bang Facebook</p>
         </button>
       </div>
